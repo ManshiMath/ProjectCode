@@ -1,0 +1,10 @@
+This is METAFONT, Version 2.71828182 (MiKTeX 23.10) (preloaded base=mf 2024.5.31)  31 MAY 2024 17:58
+**mode_setup; mag:=4.000000; show pixels_per_inch*mag; batchmode; input tcrm100
+0
+
+! Emergency stop.
+<*> mode_setup
+              ; mag:=4.000000; show pixels_per_inch*mag; batchmode; input tc...
+*** (job aborted, file error in nonstop mode)
+
+
